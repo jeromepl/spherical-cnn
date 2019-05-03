@@ -16,6 +16,7 @@ Can all be found at the following link: https://hackmd.io/s/HktuyPWzN
 - Deep Learning 3D Shapes Using Alt-az Anisotropic 2-Sphere Convolution, Liu et al., 2019. https://openreview.net/pdf?id=rkeSiiA5Fm
 - Spherical CNNs on Unstructured Grids, Jiang et al., 2019. https://arxiv.org/pdf/1901.02039.pdf
 - Equivariant Multi-View Networks, Esteves et al., 2019. https://arxiv.org/pdf/1904.00993v1.pdf
+- Gauge Equivariant Convolutional Networks and the Icosahedral CNN, Cohen et al., 2019. https://arxiv.org/pdf/1902.04615.pdf
 
 ## Code Repositories for those Papers
 - https://github.com/daniilidis-group/spherical-cnn
